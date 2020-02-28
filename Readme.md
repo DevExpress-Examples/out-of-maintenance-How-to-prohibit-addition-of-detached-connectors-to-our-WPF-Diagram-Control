@@ -1,4 +1,4 @@
-# How to prohibit adding detached connectors to WPF DiagramControl
+# How to prohibit addition of detached connectors to our WPF Diagram Control
 
 This example demonstrates how to prevent creating detached connectors:
 
