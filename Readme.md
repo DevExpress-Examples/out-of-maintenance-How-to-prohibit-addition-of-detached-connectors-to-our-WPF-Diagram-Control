@@ -7,7 +7,7 @@
 
 This example demonstrates how to prevent creating detached connectors:
 
-![0](https://github.com/DevExpress-Examples/How-to-prohibit-adding-detached-connectors-to-WPF-DiagramControl/blob/19.2.5+/demo.gif?raw=true)
+![](./demo.gif)
 
 
 There are several scenarios when a user may create connector whose [BeginItem](https://documentation.devexpress.com/WPF/DevExpress.Xpf.Diagram.DiagramConnector.BeginItem.property)/[EndItem](https://documentation.devexpress.com/WPF/DevExpress.Xpf.Diagram.DiagramConnector.EndItem.property) properties are empty:
